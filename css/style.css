@@ -1,0 +1,16 @@
+input.searche {
+    border-radius: 4px;
+    height: 33px;
+    width: 280px;
+    max-width: 500px;
+    background-color: #eef3f8;
+    border: 0;
+}
+
+.btn {
+    background-color: #fff;
+    outline-color: #fff;
+}
+.btn-group:hover {
+    background-color: rgba(211, 211, 211, 0.267);
+}
